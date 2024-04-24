@@ -1,6 +1,7 @@
-# test-jenkins
+# test-Jenkins
 
-Adding Webhook in github
+Adding Webhook in GitHub
 -------------------------
 
-- Go to settings page in your repo
+- Go to the settings page in your repo
+- select Webhook and create new one.
