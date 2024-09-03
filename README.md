@@ -7,5 +7,5 @@ Adding Webhook in GitHub
 - Select Webhook and create a new one.
 - Enter the Jenkins HTTP URL
 
-new trigger
+-trying with push and release
 =====
